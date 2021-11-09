@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T12:29:12.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TMNgD3rEi4X-h73cmxEV" version="15.7.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-09T22:04:45.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ARb_7-vxOC7zGSitW__G" version="15.7.0" type="github" pages="3">
   <diagram id="6XF7RQTOyBYSsScy9Xbd" name="Page-1">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,10 +76,37 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YIfuJbJQyFzpRemYR1nC" name="Page-3">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xC6NCV4qpzYWoNQL9qQq-0" />
         <mxCell id="xC6NCV4qpzYWoNQL9qQq-1" parent="xC6NCV4qpzYWoNQL9qQq-0" />
+        <mxCell id="S6jxQea4tvVIC1hhj906-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="xC6NCV4qpzYWoNQL9qQq-1" source="S6jxQea4tvVIC1hhj906-0" target="S6jxQea4tvVIC1hhj906-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-0" value="karyawan" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
+          <mxGeometry x="80" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xC6NCV4qpzYWoNQL9qQq-1" source="S6jxQea4tvVIC1hhj906-1" target="S6jxQea4tvVIC1hhj906-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-1" value="mengjukan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
+          <mxGeometry x="270" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xC6NCV4qpzYWoNQL9qQq-1" source="S6jxQea4tvVIC1hhj906-10" target="S6jxQea4tvVIC1hhj906-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-10" value="cuti" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
+          <mxGeometry x="410" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xC6NCV4qpzYWoNQL9qQq-1" source="S6jxQea4tvVIC1hhj906-12" target="S6jxQea4tvVIC1hhj906-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-12" value="konfirmasi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
+          <mxGeometry x="630" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S6jxQea4tvVIC1hhj906-14" value="atasan" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
+          <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
