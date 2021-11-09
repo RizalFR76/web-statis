@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T22:30:06.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MbVA2ILHydchXuLZKaPv" version="15.7.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-09T22:36:40.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="e6QjzlYOsBjmBpq_UUji" version="15.7.0" type="github" pages="3">
   <diagram id="6XF7RQTOyBYSsScy9Xbd" name="Page-1">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YIfuJbJQyFzpRemYR1nC" name="Page-3">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xC6NCV4qpzYWoNQL9qQq-0" />
         <mxCell id="xC6NCV4qpzYWoNQL9qQq-1" parent="xC6NCV4qpzYWoNQL9qQq-0" />
@@ -141,7 +141,7 @@
         <mxCell id="S6jxQea4tvVIC1hhj906-10" value="cuti" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
           <mxGeometry x="410" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S6jxQea4tvVIC1hhj906-15" value="M" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xC6NCV4qpzYWoNQL9qQq-1" source="S6jxQea4tvVIC1hhj906-12" target="S6jxQea4tvVIC1hhj906-14">
+        <mxCell id="S6jxQea4tvVIC1hhj906-15" value="1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xC6NCV4qpzYWoNQL9qQq-1" source="S6jxQea4tvVIC1hhj906-12" target="S6jxQea4tvVIC1hhj906-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S6jxQea4tvVIC1hhj906-12" value="konfirmasi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
