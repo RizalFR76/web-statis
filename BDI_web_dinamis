@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T08:05:37.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rhqJ2kFadZiSyf1NEot6" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-09T08:08:46.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ix0S8c13Df8mGeRtovL5" version="15.7.0" type="github" pages="2">
   <diagram id="6XF7RQTOyBYSsScy9Xbd" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="so5U1PGzFxvtVI-ObieG" name="Page-2">
-    <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="H81LiFI8n1iCR9Yv1vwz-0" />
         <mxCell id="H81LiFI8n1iCR9Yv1vwz-1" parent="H81LiFI8n1iCR9Yv1vwz-0" />
@@ -51,8 +51,8 @@
         <mxCell id="H81LiFI8n1iCR9Yv1vwz-9" value="melakukan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="H81LiFI8n1iCR9Yv1vwz-1">
           <mxGeometry x="201" y="550" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H81LiFI8n1iCR9Yv1vwz-10" value="validasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="H81LiFI8n1iCR9Yv1vwz-1">
-          <mxGeometry x="556" y="550" width="60" height="20" as="geometry" />
+        <mxCell id="H81LiFI8n1iCR9Yv1vwz-10" value="menghasilkan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="H81LiFI8n1iCR9Yv1vwz-1">
+          <mxGeometry x="541" y="550" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H81LiFI8n1iCR9Yv1vwz-11" value="pembayaran" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="H81LiFI8n1iCR9Yv1vwz-1">
           <mxGeometry x="336" y="630" width="160" height="120" as="geometry" />
