@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T01:31:16.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="I1DAaSBgaVclReSkgpj9" version="15.7.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-10T01:50:01.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="JZzkzKrkoemw-KPqEyAM" version="15.7.0" type="github" pages="4">
   <diagram id="6XF7RQTOyBYSsScy9Xbd" name="Page-1">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,6 +254,39 @@
         </mxCell>
         <mxCell id="509pTgCjmYc6E07irdnM-2" value="komunikasi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="xC6NCV4qpzYWoNQL9qQq-1">
           <mxGeometry x="460" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yg1gH4UpUX8ZzZl7wsYg" name="pengajuan_cuti">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PQ_h001itX6ezftm_NmE-0" />
+        <mxCell id="PQ_h001itX6ezftm_NmE-1" parent="PQ_h001itX6ezftm_NmE-0" />
+        <mxCell id="PQ_h001itX6ezftm_NmE-6" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PQ_h001itX6ezftm_NmE-1" source="PQ_h001itX6ezftm_NmE-2" target="PQ_h001itX6ezftm_NmE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQ_h001itX6ezftm_NmE-2" value="Pegawai" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="PQ_h001itX6ezftm_NmE-1">
+          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ_h001itX6ezftm_NmE-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PQ_h001itX6ezftm_NmE-1" source="PQ_h001itX6ezftm_NmE-5" target="PQ_h001itX6ezftm_NmE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ_h001itX6ezftm_NmE-10" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PQ_h001itX6ezftm_NmE-1" source="PQ_h001itX6ezftm_NmE-5" target="PQ_h001itX6ezftm_NmE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ_h001itX6ezftm_NmE-5" value="Data_cuti" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="PQ_h001itX6ezftm_NmE-1">
+          <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ_h001itX6ezftm_NmE-7" value="Jenis_cuti" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="PQ_h001itX6ezftm_NmE-1">
+          <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ_h001itX6ezftm_NmE-9" value="Atasan" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="PQ_h001itX6ezftm_NmE-1">
+          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
