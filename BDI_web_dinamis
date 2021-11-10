@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T13:25:52.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HgWLnaBcOcz5dNnyOTeO" version="15.7.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-10T13:26:27.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="k-YXHPmsYNGFoxrzdSYO" version="15.7.1" type="github" pages="5">
   <diagram id="6XF7RQTOyBYSsScy9Xbd" name="Page-1">
     <mxGraphModel dx="1541" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,7 +351,7 @@
         <mxCell id="QGbH4vpC0pR919D7qOJ1-14" value="" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="QGbH4vpC0pR919D7qOJ1-1" source="QGbH4vpC0pR919D7qOJ1-15" target="QGbH4vpC0pR919D7qOJ1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGbH4vpC0pR919D7qOJ1-15" value="kelola" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="QGbH4vpC0pR919D7qOJ1-1">
+        <mxCell id="QGbH4vpC0pR919D7qOJ1-15" value="konfirmasi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="QGbH4vpC0pR919D7qOJ1-1">
           <mxGeometry x="520" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QGbH4vpC0pR919D7qOJ1-16" value="Admin" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="QGbH4vpC0pR919D7qOJ1-1">
